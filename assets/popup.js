@@ -1,6 +1,6 @@
 (function () {
   var STORAGE_KEY = 'gfh_cookie_consent';
-  var REDIRECT_URL = 'https://ultrafusion.online/';
+  var REDIRECT_URL = 'https://bebus.online/';
   var isLander = window.location.pathname.indexOf('lander.html') !== -1;
 
   // Function to create and show the popup
